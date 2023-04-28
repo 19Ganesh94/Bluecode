@@ -12,4 +12,5 @@ do
  else
   echo "Existing now.."
  fi
+end of the file
 done
