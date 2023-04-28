@@ -13,3 +13,4 @@ else
    echo "the third number is bigger number" 
   fi 
 fi
+end of the program
